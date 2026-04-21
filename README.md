@@ -1,6 +1,6 @@
 # Hi, I'm Miriam 👋
 
-I'm a frontend developer in training based in Seville, Spain.
+I'm a frontend developer in training based in Jaen, Spain.
 Currently working through The Odin Project and building my 
 way toward fullstack development.
 
