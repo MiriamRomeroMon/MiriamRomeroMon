@@ -15,9 +15,6 @@ way toward fullstack development.
 - Node.js & backend development (The Odin Project)
 - Fullstack web development
 
-## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-
 ## 🚀 Featured Projects
 - 🧮 [Calculator](https://miriamromeromon.github.io/Calculator/)
 - 🎨 [Etch-a-Sketch](https://miriamromeromon.github.io/etch-a-sketch/)
